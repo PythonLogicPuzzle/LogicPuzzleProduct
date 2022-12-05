@@ -57,7 +57,7 @@
                     </MenuItem.Icon>
                 </MenuItem>
                 <Separator/>
-                <MenuItem Header="_About this program" Click="MenuItem_About_Click"/>
+                <MenuItem Header="" Click="MenuItem_About_Click"/>
             </MenuItem>
         </Menu>
         <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
