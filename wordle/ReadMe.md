@@ -13,6 +13,7 @@ You should get this message:
 You can now view wsol in the browser.
 
   Local:            http://localhost:3000
+  
   On Your Network:  http://###.###.#.###:3000
 
 Note that the development build is not optimized.
