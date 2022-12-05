@@ -2,8 +2,8 @@
   "name": "wsol",
   "version": "0.1.0",
   "description": "An easy to use, online Wordle solver that supports both hard and easy mode.",
-  "author": "tropicbliss",
-  "license": "MIT",
+  "author": "pythonlogicpuzzle",
+  "license": "none",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
