@@ -12,7 +12,6 @@ using System.Windows;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Knight's Tour")]
-[assembly: AssemblyCopyright("Copyright © 2017 Anahit Gardishyan")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
