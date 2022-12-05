@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tropicbliss/wordlesolver"
+    "url": "https://github.com/PythonLogicPuzzle/LogicPuzzleProduct"
   },
   "files": [
     "wasm_lib_bg.wasm",
