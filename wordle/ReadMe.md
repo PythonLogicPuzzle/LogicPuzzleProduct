@@ -20,4 +20,5 @@ Note that the development build is not optimized.
 To create a production build, use npm run build.
 
 webpack compiled successfully"
+
 5. Tap on the link (local or on your network) and you should see the website.
