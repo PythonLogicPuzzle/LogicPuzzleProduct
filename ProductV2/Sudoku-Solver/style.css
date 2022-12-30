@@ -1,0 +1,40 @@
+#initialBoard {
+    float: left;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+#answerBoard {
+    margin-right: 20%;
+    float: right;
+    margin-top: 10%;
+}
+p{
+    font-size: 18px;
+}
+input{
+    font-size: 17px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 3px solid rgb(0, 0, 0);
+    width: 45px;
+    height: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    position:absolute;
+    bottom:0;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 5%;
+}
+h2 {
+    text-align: center;
+    margin-top: 6%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    background-color: lightgreen;
+}
