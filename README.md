@@ -11,7 +11,8 @@
 </div align="center">
 
 <br>
-
+# Changes
+There has been some new changes made for the project. https://logicpuzzlesproduc.wixsite.com/logic-puzzles 
 
 # Knight's Tour
 
