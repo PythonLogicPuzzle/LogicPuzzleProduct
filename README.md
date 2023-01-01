@@ -14,6 +14,7 @@
 # Changes
   
 There has been some new changes made for the project. https://logicpuzzlesproduc.wixsite.com/logic-puzzles 
+New Reworked Python Website. https://pythonlogicpuzzle-pythonwebsitesv2-logicpuzzles-9raj5z.streamlit.app/
 
 # Knight's Tour
 
